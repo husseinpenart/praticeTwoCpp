@@ -135,6 +135,7 @@
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Default</LanguageStandard>
     </ClCompile>
     <ClCompile Include="simpleCalculator.cpp" />
+    <ClCompile Include="Vectors.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
