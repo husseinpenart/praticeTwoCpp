@@ -131,6 +131,7 @@
     <ClCompile Include="Classes.cpp" />
     <ClCompile Include="fileTimeEx.cpp" />
     <ClCompile Include="functions.cpp" />
+    <ClCompile Include="LIFOFIFO.cpp" />
     <ClCompile Include="list.cpp" />
     <ClCompile Include="mainFile.cpp">
       <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Default</LanguageStandard>
