@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Basics.cpp" />
     <ClCompile Include="Classes.cpp" />
+    <ClCompile Include="data.cpp" />
     <ClCompile Include="fileTimeEx.cpp" />
     <ClCompile Include="functions.cpp" />
     <ClCompile Include="LIFOFIFO.cpp" />
